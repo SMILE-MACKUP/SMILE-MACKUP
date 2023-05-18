@@ -19,7 +19,7 @@
 				</br>
 				
 				
-				<img src="../Imagenes/maquillaje 1.jpg" class="img">
+				<img src="../IMAGENES/maquillaje 1.jpg" class="img">
 				<br>
 				</div>
 				
